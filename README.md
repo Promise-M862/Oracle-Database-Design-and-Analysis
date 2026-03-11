@@ -6,12 +6,12 @@ This project involves designing and implementing a relational database system fo
 The database was designed using relational modelling principles, including normalization and data integrity constraints. SQL queries were developed to retrieve, analyze and report on business data.
 
 Technologies Used:
-Oracle Database
-SQL
+Oracle Database,
+SQL,
 PL/SQL
 
 Key Skills Demonstrated:
-Relational database design
-Data modelling and normalization
-SQL query development
+Relational database design,
+Data modelling and normalization,
+SQL query development,
 Data analysis and reporting
